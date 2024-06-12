@@ -1,0 +1,67 @@
+body{
+ width: fit-content;
+   margin: auto;
+   padding-top: 5px;
+   background-image:url(https://assets-global.website-files.com/5fa6db567309daefe342e10c/60086d3bacc8b6c2ed458d53_Customer%20Churn%20Rate%20%3D%20Number%20of%20customers%20lost%20_%20Total%20no%20of%20customers%20_%20100.png);
+   background-size: cover;
+   
+}
+
+.container {
+   height: 250px;
+   font-size: larger;
+   background-color:#7C3AED;
+   padding: 25px;
+   border-radius: 15px;
+   color: white;
+  text-align: center;
+  font-family: Geneva, Verdana, sans-serif;
+  
+}
+
+.container-sub{
+    margin-top:30px;
+   
+    
+}
+#convert-el{
+    display: block;
+    background-color: white;
+    border: none;
+    border-radius: 3px;
+    width: 85px;
+    height: 30px;
+    margin: 15px  auto;
+    font-weight:bold;
+
+}
+:hover#convert-el{
+    transform: scale(1.1);
+    color: #7C3AED;
+   box-shadow:5px 5px 0px #1e1d1d;
+   border-radius: 10px;
+}
+#input-el{ 
+    text-align: center;
+    height: 65px;
+    width: 75px;
+    font-size:xx-large;
+    font-weight:bolder;
+    color: white;
+    background-color: #7C3AED;
+    border: 1px solid white;
+    border-radius: 5px;
+  
+}
+.container2{
+    
+text-align: center;
+color: #6B7280;
+}
+.container2-sub{
+    background-color: white;
+    margin-top: 40px;
+    height: 90px;
+   padding: 1px 100px 0px 100px ;
+   border-radius: 10px;
+}
